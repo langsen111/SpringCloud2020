@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43da48b9-0d93-4fa2-9f74-fdaf99e428fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/atguigu/springcloud/alibaba/NacosConfigClientMain3377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/java/com/atguigu/springcloud/alibaba/controller/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/atguigu/springcloud/alibaba/OrderNacosMain83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/atguigu/springcloud/alibaba/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/java/com/atguigu/springcloud/alibaba/controller/OrderNacosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/atguigu/springcloud/OrderNacosMain84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/atguigu/springcloud/controller/CircleBreakerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/atguigu/springcloud/service/PaymentFallbackService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/atguigu/springcloud/alibaba/PaymentMain9001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/java/com/atguigu/springcloud/alibaba/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/classes/com/atguigu/springcloud/alibaba/PaymentMain9001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/classes/com/atguigu/springcloud/alibaba/controller/PaymentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/atguigu/springcloud/alibaba/PaymentMain9002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java/com/atguigu/springcloud/alibaba/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/cloudalibaba-provider-payment9003.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/atguigu/springcloud/PaymentMain9003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/cloudalibaba-provider-payment9004.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/atguigu/springcloud/PaymentMain9004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/cloudalibaba-sentinel-service8401.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/atguigu/springcloud/alibaba/MainApp8401.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/atguigu/springcloud/alibaba/controller/FlowLimitController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/atguigu/springcloud/alibaba/controller/RateLimitController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/atguigu/springcloud/alibaba/myhandler/CustomerBlockHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="43da48b9-0d93-4fa2-9f74-fdaf99e428fd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
@@ -353,257 +299,6 @@
             <path>
               <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order83" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order83" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order83" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order83" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order83" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order83" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order84" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order84" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order84" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order84" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order84" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order84" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-consumer-nacos-order84" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9004" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9004" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9004" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9004" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9004" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-provider-payment9004" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-sentinel-service8401" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-sentinel-service8401" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-sentinel-service8401" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-sentinel-service8401" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-sentinel-service8401" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-sentinel-service8401" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud2020" type="462c0819:PsiDirectoryNode" />
-              <item name="cloudalibaba-sentinel-service8401" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -910,12 +605,12 @@
       <workItem from="1586484069475" duration="15233000" />
       <workItem from="1586746025824" duration="34387000" />
       <workItem from="1587699434272" duration="15577000" />
-      <workItem from="1588844920369" duration="34311000" />
+      <workItem from="1588844920369" duration="34591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142825000" />
+    <option name="totallyTimeSpent" value="143105000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -928,9 +623,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1127" y="237" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2790869" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2790869" />
       <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.2790869" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -954,7 +648,7 @@
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Problems" order="14" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32929516" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
